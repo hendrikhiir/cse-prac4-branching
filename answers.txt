@@ -1,0 +1,15 @@
+* What branches exist in this project?
+
+bower, index, landing, landing-ru, package and master branches
+
+* What branch has been merged into master?
+
+Branch index has been merged into master
+
+* How many commits (in total) does the repository have?
+
+The repository has 16 commits in total, or 14 without merge commits (used git shortlog -s -n --all command)
+
+* What commits belong to branch package that don't belong to the branch master?
+
+Commits "Removed lock" (cab8d80), "Added locked package" (8bfb714) and "Added package" (daa9e63)
